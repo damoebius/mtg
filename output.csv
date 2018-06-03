@@ -1,0 +1,60 @@
+Wheel of Fortune;[2][r];Sorcery;undefined;undefined;Each player discards his or her hand, then draws seven cards.
+Fork;[r][r];Instant;undefined;undefined;Copy target instant or sorcery spell, except that the copy is red. You may choose new targets for the copy.
+Sedge Troll;[2][r];2/2 Creature - Troll;2;2;Sedge Troll gets +1/+1 as long as you control a Swamp.<br>
+<img style="margin:1px;" src="/media/images/web/mana_symbols/mana_b.png">: Regenerate Sedge Troll.
+Shivan Dragon;[4][r][r];5/5 Creature - Dragon;5;5;Flying<br>
+[r]: Shivan Dragon gets +1/+0 until end of turn.
+Goblin King;[1][r][r];2/2 Creature - Goblin;2;2;Other Goblin creatures get +1/+1 and have mountainwalk. <em>(They&apos;re unblockable as long as defending player controls a Mountain.)</em>
+Lightning Bolt;[r];Instant;undefined;undefined;Lightning Bolt deals 3 damage to target creature or player.
+Rock Hydra;[x][r][r];0/0 Creature - Hydra;0;0;Rock Hydra enters the battlefield with X +1/+1 counters on it.<br>
+For each 1 damage that would be dealt to Rock Hydra, if it has a +1/+1 counter on it, remove a +1/+1 counter from it and prevent that 1 damage.<br>
+[r]: Prevent the next 1 damage that would be dealt to Rock Hydra this turn.<br>
+[b][g][w]: Put a +1/+1 counter on Rock Hydra. Activate this ability only during your upkeep.
+Mana Flare;[2][r];Enchantment;undefined;undefined;Whenever a player taps a land for mana, that player adds one mana to his or her mana pool of any type that land produced.
+Smoke;[r][r];Enchantment;undefined;undefined;Players can&apos;t untap more than one creature during their untap steps.
+Earthquake;[x][r];Sorcery;undefined;undefined;Earthquake deals X damage to each creature without flying and each player.
+Granite Gargoyle;[2][r];2/2 Creature - Gargoyle;2;2;Flying<br>
+[r]: Granite Gargoyle gets +0/+1 until end of turn.
+Mijae Djinn;[r][r][r];6/3 Creature - Djinn;6;3;Whenever Mijae Djinn attacks, flip a coin. If you lose the flip, remove Mijae Djinn from combat and tap it.
+Roc of Kher Ridges;[3][r];3/3 Creature - Bird;3;3;Flying
+Shatterstorm;[2][r][r];Sorcery;undefined;undefined;Destroy all artifacts. They can&apos;t be regenerated.
+Manabarbs;[3][r];Enchantment;undefined;undefined;Whenever a player taps a land for mana, Manabarbs deals 1 damage to that player.
+Power Surge;[r][r];Enchantment;undefined;undefined;At the beginning of each player&apos;s upkeep, Power Surge deals X damage to that player, where X is the number of untapped lands he or she controlled at the beginning of this turn.
+Magnetic Mountain;[1][r][r];Enchantment;undefined;undefined;Blue creatures don&apos;t untap during their controllers&apos; untap steps.<br>
+At the beginning of each player&apos;s upkeep, that player may choose any number of tapped blue creatures he or she controls and pay <img style="margin:1px;" src="/media/images/web/mana_symbols/mana_4.png"> for each creature chosen this way. If the player does, untap those creatures.
+Chaoslace;[r];Instant;undefined;undefined;Target spell or permanent becomes red. <em>(Its mana symbols remain unchanged.)</em>
+Dragon Whelp;[2][r][r];2/3 Creature - Dragon;2;3;Flying<br>
+[r]: Dragon Whelp gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice Dragon Whelp at the beginning of the next end step.
+Goblin Balloon Brigade;[r];1/1 Creature - Goblin Warrior;1;1;[r]: Goblin Balloon Brigade gains flying until end of turn. <em>(It can&apos;t be blocked except by creatures with flying or reach.)</em>
+Atog;[1][r];1/2 Creature - Atog;1;2;Sacrifice an artifact: Atog gets +2/+2 until end of turn.
+Burrowing;[r];Enchantment - Aura;undefined;undefined;Enchant creature<br>
+Enchanted creature has mountainwalk.
+Disintegrate;[x][r];Sorcery;undefined;undefined;Disintegrate deals X damage to target creature or player. That creature can&apos;t be regenerated this turn. If the creature would be put into a graveyard this turn, exile it instead.
+Dwarven Warriors;[2][r];1/1 Creature - Dwarf Warrior;1;1;[t]: Target creature with power 2 or less is unblockable this turn.
+Dwarven Weaponsmith;[1][r];1/1 Creature - Dwarf Artificer;1;1;[t], Sacrifice an artifact: Put a +1/+1 counter on target creature. Activate this ability only during your upkeep.
+Earth Elemental;[3][r][r];4/5 Creature - Elemental;4;5;No Text
+Earthbind;[r];Enchantment - Aura;undefined;undefined;Enchant creature<br>
+When Earthbind enters the battlefield, if enchanted creature has flying, Earthbind deals 2 damage to that creature and Earthbind gains &quot;Enchanted creature loses flying.&quot;
+Fire Elemental;[3][r][r];5/4 Creature - Elemental;5;4;No Text
+Fireball;[x][r];Sorcery;undefined;undefined;Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players.<br>
+Fireball costs <img style="margin:1px;" src="/media/images/web/mana_symbols/mana_1.png"> more to cast for each target beyond the first.
+Firebreathing;[r];Enchantment - Aura;undefined;undefined;Enchant creature<br>
+[r]: Enchanted creature gets +1/+0 until end of turn.
+Flashfires;[3][r];Sorcery;undefined;undefined;Destroy all Plains.
+Gray Ogre;[2][r];2/2 Creature - Ogre;2;2;No Text
+Hill Giant;[3][r];3/3 Creature - Giant;3;3;No Text
+Hurloon Minotaur;[1][r][r];2/3 Creature - Minotaur;2;3;No Text
+Keldon Warlord;[2][r][r];*/* Creature - Human Barbarian;*;*;Keldon Warlord&apos;s power and toughness are each equal to the number of non-Wall creatures you control.
+Kird Ape;[r];1/1 Creature - Ape;1;1;Kird Ape gets +1/+2 as long as you control a Forest.
+Mons&apos;s Goblin Raiders;[r];1/1 Creature - Goblin;1;1;No Text
+Orcish Artillery;[1][r][r];1/3 Creature - Orc Warrior;1;3;[t]: Orcish Artillery deals 2 damage to target creature or player and 3 damage to you.
+Orcish Oriflamme;[3][r];Enchantment;undefined;undefined;Attacking creatures you control get +1/+0.
+Red Elemental Blast;[r];Instant;undefined;undefined;Choose one - Counter target blue spell; or destroy target blue permanent.
+Shatter;[1][r];Instant;undefined;undefined;Destroy target artifact.
+Stone Giant;[2][r][r];3/4 Creature - Giant;3;4;[t]: Target creature you control with toughness less than Stone Giant&apos;s power gains flying until end of turn. Destroy that creature at the beginning of the next end step.
+Stone Rain;[2][r];Sorcery;undefined;undefined;Destroy target land.
+Tunnel;[r];Instant;undefined;undefined;Destroy target Wall. It can&apos;t be regenerated.
+Uthden Troll;[2][r];2/2 Creature - Troll;2;2;[r]: Regenerate Uthden Troll.
+Wall of Fire;[1][r][r];0/5 Creature - Wall;0;5;Defender <em>(This creature can&apos;t attack.)</em><br>
+[r]: Wall of Fire gets +1/+0 until end of turn.
+Wall of Stone;[1][r][r];0/8 Creature - Wall;0;8;Defender <em>(This creature can&apos;t attack.)</em>
