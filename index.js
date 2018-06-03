@@ -1,6 +1,6 @@
 var fs = require("fs");
 var cheerio = require('cheerio')
-var file="data/red.html";
+var file="data/black.html";
 var output = "output.csv"
 
 
@@ -13,6 +13,7 @@ var parseCode = function (input){
     result = result.replace("<img style=\"margin:1px;\" src=\"/media/images/web/mana_symbols/mana_r.png\">","[w]");
     result = result.replace("<img style=\"margin:1px;\" src=\"/media/images/web/mana_symbols/mana_r.png\">","[R]");
     result = result.replace("<img style=\"margin:1px;\" src=\"/media/images/web/mana_symbols/mana_r.png\">","[R]");
+    result = result.replace("\n","").replace("\r","");
   return result;
 }
 

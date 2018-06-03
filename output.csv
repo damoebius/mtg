@@ -1,60 +1,49 @@
-Wheel of Fortune;[2][r];Sorcery;undefined;undefined;Each player discards his or her hand, then draws seven cards.
-Fork;[r][r];Instant;undefined;undefined;Copy target instant or sorcery spell, except that the copy is red. You may choose new targets for the copy.
-Sedge Troll;[2][r];2/2 Creature - Troll;2;2;Sedge Troll gets +1/+1 as long as you control a Swamp.<br>
-<img style="margin:1px;" src="/media/images/web/mana_symbols/mana_b.png">: Regenerate Sedge Troll.
-Shivan Dragon;[4][r][r];5/5 Creature - Dragon;5;5;Flying<br>
-[r]: Shivan Dragon gets +1/+0 until end of turn.
-Goblin King;[1][r][r];2/2 Creature - Goblin;2;2;Other Goblin creatures get +1/+1 and have mountainwalk. <em>(They&apos;re unblockable as long as defending player controls a Mountain.)</em>
-Lightning Bolt;[r];Instant;undefined;undefined;Lightning Bolt deals 3 damage to target creature or player.
-Rock Hydra;[x][r][r];0/0 Creature - Hydra;0;0;Rock Hydra enters the battlefield with X +1/+1 counters on it.<br>
-For each 1 damage that would be dealt to Rock Hydra, if it has a +1/+1 counter on it, remove a +1/+1 counter from it and prevent that 1 damage.<br>
-[r]: Prevent the next 1 damage that would be dealt to Rock Hydra this turn.<br>
-[b][g][w]: Put a +1/+1 counter on Rock Hydra. Activate this ability only during your upkeep.
-Mana Flare;[2][r];Enchantment;undefined;undefined;Whenever a player taps a land for mana, that player adds one mana to his or her mana pool of any type that land produced.
-Smoke;[r][r];Enchantment;undefined;undefined;Players can&apos;t untap more than one creature during their untap steps.
-Earthquake;[x][r];Sorcery;undefined;undefined;Earthquake deals X damage to each creature without flying and each player.
-Granite Gargoyle;[2][r];2/2 Creature - Gargoyle;2;2;Flying<br>
-[r]: Granite Gargoyle gets +0/+1 until end of turn.
-Mijae Djinn;[r][r][r];6/3 Creature - Djinn;6;3;Whenever Mijae Djinn attacks, flip a coin. If you lose the flip, remove Mijae Djinn from combat and tap it.
-Roc of Kher Ridges;[3][r];3/3 Creature - Bird;3;3;Flying
-Shatterstorm;[2][r][r];Sorcery;undefined;undefined;Destroy all artifacts. They can&apos;t be regenerated.
-Manabarbs;[3][r];Enchantment;undefined;undefined;Whenever a player taps a land for mana, Manabarbs deals 1 damage to that player.
-Power Surge;[r][r];Enchantment;undefined;undefined;At the beginning of each player&apos;s upkeep, Power Surge deals X damage to that player, where X is the number of untapped lands he or she controlled at the beginning of this turn.
-Magnetic Mountain;[1][r][r];Enchantment;undefined;undefined;Blue creatures don&apos;t untap during their controllers&apos; untap steps.<br>
-At the beginning of each player&apos;s upkeep, that player may choose any number of tapped blue creatures he or she controls and pay <img style="margin:1px;" src="/media/images/web/mana_symbols/mana_4.png"> for each creature chosen this way. If the player does, untap those creatures.
-Chaoslace;[r];Instant;undefined;undefined;Target spell or permanent becomes red. <em>(Its mana symbols remain unchanged.)</em>
-Dragon Whelp;[2][r][r];2/3 Creature - Dragon;2;3;Flying<br>
-[r]: Dragon Whelp gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice Dragon Whelp at the beginning of the next end step.
-Goblin Balloon Brigade;[r];1/1 Creature - Goblin Warrior;1;1;[r]: Goblin Balloon Brigade gains flying until end of turn. <em>(It can&apos;t be blocked except by creatures with flying or reach.)</em>
-Atog;[1][r];1/2 Creature - Atog;1;2;Sacrifice an artifact: Atog gets +2/+2 until end of turn.
-Burrowing;[r];Enchantment - Aura;undefined;undefined;Enchant creature<br>
-Enchanted creature has mountainwalk.
-Disintegrate;[x][r];Sorcery;undefined;undefined;Disintegrate deals X damage to target creature or player. That creature can&apos;t be regenerated this turn. If the creature would be put into a graveyard this turn, exile it instead.
-Dwarven Warriors;[2][r];1/1 Creature - Dwarf Warrior;1;1;[t]: Target creature with power 2 or less is unblockable this turn.
-Dwarven Weaponsmith;[1][r];1/1 Creature - Dwarf Artificer;1;1;[t], Sacrifice an artifact: Put a +1/+1 counter on target creature. Activate this ability only during your upkeep.
-Earth Elemental;[3][r][r];4/5 Creature - Elemental;4;5;No Text
-Earthbind;[r];Enchantment - Aura;undefined;undefined;Enchant creature<br>
-When Earthbind enters the battlefield, if enchanted creature has flying, Earthbind deals 2 damage to that creature and Earthbind gains &quot;Enchanted creature loses flying.&quot;
-Fire Elemental;[3][r][r];5/4 Creature - Elemental;5;4;No Text
-Fireball;[x][r];Sorcery;undefined;undefined;Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players.<br>
-Fireball costs <img style="margin:1px;" src="/media/images/web/mana_symbols/mana_1.png"> more to cast for each target beyond the first.
-Firebreathing;[r];Enchantment - Aura;undefined;undefined;Enchant creature<br>
-[r]: Enchanted creature gets +1/+0 until end of turn.
-Flashfires;[3][r];Sorcery;undefined;undefined;Destroy all Plains.
-Gray Ogre;[2][r];2/2 Creature - Ogre;2;2;No Text
-Hill Giant;[3][r];3/3 Creature - Giant;3;3;No Text
-Hurloon Minotaur;[1][r][r];2/3 Creature - Minotaur;2;3;No Text
-Keldon Warlord;[2][r][r];*/* Creature - Human Barbarian;*;*;Keldon Warlord&apos;s power and toughness are each equal to the number of non-Wall creatures you control.
-Kird Ape;[r];1/1 Creature - Ape;1;1;Kird Ape gets +1/+2 as long as you control a Forest.
-Mons&apos;s Goblin Raiders;[r];1/1 Creature - Goblin;1;1;No Text
-Orcish Artillery;[1][r][r];1/3 Creature - Orc Warrior;1;3;[t]: Orcish Artillery deals 2 damage to target creature or player and 3 damage to you.
-Orcish Oriflamme;[3][r];Enchantment;undefined;undefined;Attacking creatures you control get +1/+0.
-Red Elemental Blast;[r];Instant;undefined;undefined;Choose one - Counter target blue spell; or destroy target blue permanent.
-Shatter;[1][r];Instant;undefined;undefined;Destroy target artifact.
-Stone Giant;[2][r][r];3/4 Creature - Giant;3;4;[t]: Target creature you control with toughness less than Stone Giant&apos;s power gains flying until end of turn. Destroy that creature at the beginning of the next end step.
-Stone Rain;[2][r];Sorcery;undefined;undefined;Destroy target land.
-Tunnel;[r];Instant;undefined;undefined;Destroy target Wall. It can&apos;t be regenerated.
-Uthden Troll;[2][r];2/2 Creature - Troll;2;2;[r]: Regenerate Uthden Troll.
-Wall of Fire;[1][r][r];0/5 Creature - Wall;0;5;Defender <em>(This creature can&apos;t attack.)</em><br>
-[r]: Wall of Fire gets +1/+0 until end of turn.
-Wall of Stone;[1][r][r];0/8 Creature - Wall;0;8;Defender <em>(This creature can&apos;t attack.)</em>
+Demonic Tutor;[1][b];Sorcery;undefined;undefined;Search your library for a card and put that card into your hand. Then shuffle your library.
+Mind Twist;[x][b];Sorcery;undefined;undefined;Target player discards X cards at random.
+Demonic Hordes;[3][b][b][b];5/5 Creature - Demon;5;5;[t]: Destroy target land.<br>                                    At the beginning of your upkeep, unless you pay <img style="margin:1px;" src="/media/images/web/mana_symbols/mana_b.png"><img style="margin:1px;" src="/media/images/web/mana_symbols/mana_b.png"><img style="margin:1px;" src="/media/images/web/mana_symbols/mana_b.png">, tap Demonic Hordes and sacrifice a land of an opponent&apos;s choice.
+Royal Assassin;[1][b][b];1/1 Creature - Human Assassin;1;1;[t]: Destroy target tapped creature.
+Zombie Master;[1][b][b];2/3 Creature - Zombie;2;3;Other Zombie creatures have swampwalk.<br>                                    Other Zombies have &quot;<img style="margin:1px;" src="/media/images/web/mana_symbols/mana_b.png">: Regenerate this permanent.&quot;
+Bad Moon;[1][b];Enchantment;undefined;undefined;Black creatures get +1/+1.
+Nightmare;[5][b];*/* Creature - Nightmare Horse;*;*;Flying<br>                                    Nightmare&apos;s power and toughness are each equal to the number of Swamps you control.
+Animate Dead;[1][b];Enchantment - Aura;undefined;undefined;Enchant creature card in a graveyard<br>                                    When Animate Dead enters the battlefield, if it&apos;s on the battlefield, it loses &quot;enchant creature card in a graveyard&quot; and gains &quot;enchant creature put onto the battlefield with Animate Dead.&quot; Return enchanted creature card to the battlefield under your control and attach Animate Dead to it. When Animate Dead leaves the battlefield, that creature&apos;s controller sacrifices it.<br>
+                                    Enchanted creature gets -1/-0.
+Will-O&apos;-The-Wisp;[b];0/1 Creature - Spirit;0;1;Flying <em>(This creature can&apos;t be blocked except by creatures with flying or reach.)</em><br>                                    <img style="margin:1px;" src="/media/images/web/mana_symbols/mana_b.png">: Regenerate Will-o&apos;-the-Wisp. <em>(The next time this creature would be destroyed this turn, it isn&apos;t. Instead tap it, remove all damage from it, and remove it from combat.)</em>
+Demonic Attorney;[1][b][b];Sorcery;undefined;undefined;Remove Demonic Attorney from your deck before playing if you&apos;re not playing for ante.<br>                                    Each player antes the top card of his or her library.
+Black Knight;[b][b];2/2 Creature - Human Knight;2;2;First strike <em>(This creature deals combat damage before creatures without first strike.)</em><br>                                    Protection from white <em>(This creature can&apos;t be blocked, targeted, dealt damage, or enchanted by anything white.)</em>
+Contract from Below;[b];Sorcery;undefined;undefined;Remove Contract from Below from your deck before playing if you&apos;re not playing for ante.<br>                                    Discard your hand, add the top card of your library to the ante, then draw seven cards.
+Nether Shadow;[b][b];1/1 Creature - Spirit;1;1;Haste<br>                                    At the beginning of your upkeep, if Nether Shadow is in your graveyard with three or more creature cards above it, you may put Nether Shadow onto the battlefield.
+Hypnotic Specter;[1][b][b];2/2 Creature - Specter;2;2;Flying<br>                                    Whenever Hypnotic Specter deals damage to an opponent, that player discards a card at random.
+Lord of the Pit;[4][b][b][b];7/7 Creature - Demon;7;7;Flying, trample<br>                                    At the beginning of your upkeep, sacrifice a creature other than Lord of the Pit. If you can&apos;t, Lord of the Pit deals 7 damage to you.
+Sorceress Queen;[1][b][b];1/1 Creature - Human Wizard;1;1;[t]: Target creature other than Sorceress Queen is 0/2 until end of turn.
+Darkpact;[b][b][b];Sorcery;undefined;undefined;Remove Darkpact from your deck before playing if you&apos;re not playing for ante.<br>                                    You own target card in the ante. Exchange that card with the top card of your library.
+Dark Ritual;[b];Instant;undefined;undefined;Add <img style="margin:1px;" src="/media/images/web/mana_symbols/mana_b.png"><img style="margin:1px;" src="/media/images/web/mana_symbols/mana_b.png"><img style="margin:1px;" src="/media/images/web/mana_symbols/mana_b.png"> to your mana pool.
+El-Hajjaj;[1][b][b];1/1 Creature - Human Wizard;1;1;Lifelink<em> (Whenever this creature deals damage, you gain that much life.)</em>
+Sengir Vampire;[3][b][b];4/4 Creature - Vampire;4;4;Flying <em>(This creature can&apos;t be blocked except by creatures with flying or reach.)</em><br>                                    Whenever a creature dealt damage by Sengir Vampire this turn is put into a graveyard, put a +1/+1 counter on Sengir Vampire.
+Warp Artifact;[b][b];Enchantment - Aura;undefined;undefined;Enchant artifact<br>                                    At the beginning of the upkeep of enchanted artifact&apos;s controller, Warp Artifact deals 1 damage to that player.
+Cursed Land;[2][b][b];Enchantment - Aura;undefined;undefined;Enchant land<br>                                    At the beginning of the upkeep of enchanted land&apos;s controller, Cursed Land deals 1 damage to that player.
+Deathlace;[b];Instant;undefined;undefined;Target spell or permanent becomes black. <em>(Mana symbols on that permanent remain unchanged.)</em>
+Evil Presence;[b];Enchantment - Aura;undefined;undefined;Enchant land<br>                                    Enchanted land is a Swamp.
+Gloom;[2][b];Enchantment;undefined;undefined;White spells cost <img style="margin:1px;" src="/media/images/web/mana_symbols/mana_3.png"> more to cast.<br>                                    Activated abilities of white enchantments cost <img style="margin:1px;" src="/media/images/web/mana_symbols/mana_3.png"> more to activate.
+Bog Wraith;[3][b];3/3 Creature - Wraith;3;3;Swampwalk <em>(This creature is unblockable as long as defending player controls a Swamp.)</em>
+Deathgrip;[b][b];Enchantment;undefined;undefined;<img style="margin:1px;" src="/media/images/web/mana_symbols/mana_b.png"><img style="margin:1px;" src="/media/images/web/mana_symbols/mana_b.png">: Counter target green spell.
+Drain Life;[1][b];Sorcery;undefined;undefined;Spend only black mana on X.<br>                                    Drain Life deals X damage to target creature or player. You gain life equal to the damage dealt, but not more life than the player&apos;s life total before Drain Life dealt damage or the creature&apos;s toughness.
+Drudge Skeletons;[1][b];1/1 Creature - Skeleton;1;1;<img style="margin:1px;" src="/media/images/web/mana_symbols/mana_b.png">: Regenerate Drudge Skeletons. <em>(The next time this creature would be destroyed this turn, it isn&apos;t. Instead tap it, remove all damage from it, and remove it from combat.)</em>
+Erg Raiders;[1][b];2/3 Creature - Human Warrior;2;3;At the beginning of your end step, if Erg Raiders didn&apos;t attack this turn, Erg Raiders deals 2 damage to you unless it came under your control this turn.
+Fear;[b][b];Enchantment - Aura;undefined;undefined;Enchant creature<br>                                    Enchanted creature has fear. <em>(It can&apos;t be blocked except by artifact creatures and/or black creatures.)</em>
+Frozen Shade;[2][b];0/1 Creature - Shade;0;1;<img style="margin:1px;" src="/media/images/web/mana_symbols/mana_b.png">: Frozen Shade gets +1/+1 until end of turn.
+Howl from Beyond;[x][b];Instant;undefined;undefined;Target creature gets +X/+0 until end of turn.
+Nettling Imp;[2][b];1/1 Creature - Imp;1;1;[t]: Choose target non-Wall creature the active player has controlled continuously since the beginning of the turn. That creature attacks this turn if able. If it doesn&apos;t, destroy it at the beginning of the next end step. Activate this ability only during an opponent&apos;s turn, before attackers are declared.
+Paralyze;[b];Enchantment - Aura;undefined;undefined;Enchant creature<br>                                    When Paralyze enters the battlefield, tap enchanted creature.<br>
+                                    Enchanted creature doesn&apos;t untap during its controller&apos;s untap step.<br>
+                                    At the beginning of the upkeep of enchanted creature&apos;s controller, that player may pay <img style="margin:1px;" src="/media/images/web/mana_symbols/mana_4.png">. If he or she does, untap the creature.
+Pestilence;[2][b][b];Enchantment;undefined;undefined;At the beginning of the end step, if no creatures are on the battlefield, sacrifice Pestilence.<br>                                    <img style="margin:1px;" src="/media/images/web/mana_symbols/mana_b.png">: Pestilence deals 1 damage to each creature and each player.
+Plague Rats;[2][b];*/* Creature - Rat;*;*;Plague Rats&apos;s power and toughness are each equal to the number of creatures named Plague Rats on the battlefield.
+Raise Dead;[b];Sorcery;undefined;undefined;Return target creature card from your graveyard to your hand.
+Sacrifice;[b];Instant;undefined;undefined;As an additional cost to cast Sacrifice, sacrifice a creature.                                    Add to your mana pool an amount of <img style="margin:1px;" src="/media/images/web/mana_symbols/mana_b.png"> equal to the sacrificed creature&apos;s converted mana cost.
+Scathe Zombies;[2][b];2/2 Creature - Zombie;2;2;No Text
+Scavenging Ghoul;[3][b];2/2 Creature - Zombie;2;2;At the beginning of each end step, put a corpse counter on Scavenging Ghoul for each creature put into a graveyard from the battlefield this turn.<br>                                    Remove a corpse counter from Scavenging Ghoul: Regenerate Scavenging Ghoul.
+Simulacrum;[1][b];Instant;undefined;undefined;You gain life equal to the damage dealt to you this turn. Simulacrum deals damage to target creature you control equal to the damage dealt to you this turn.
+Terror;[1][b];Instant;undefined;undefined;Destroy target nonartifact, nonblack creature. It can&apos;t be regenerated.
+Unholy Strength;[b];Enchantment - Aura;undefined;undefined;Enchant creature<br>                                    Enchanted creature gets +2/+1.
+Wall of Bone;[2][b];1/4 Creature - Skeleton Wall;1;4;Defender <em>(This creature can&apos;t attack.)</em><br>                                    <img style="margin:1px;" src="/media/images/web/mana_symbols/mana_b.png">: Regenerate Wall of Bone. <em>(The next time this creature would be destroyed this turn, it isn&apos;t. Instead tap it, remove all damage from it, and remove it from combat.)</em>
+Weakness;[b];Enchantment - Aura;undefined;undefined;Enchant creature<br>                                    Enchanted creature gets -2/-1.
