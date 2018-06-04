@@ -6,14 +6,17 @@ var output = "output.csv"
 
 var parseCode = function (input){
   var result = input.trim();
-  result = result.replace("<img style=\"margin:1px;\" src=\"/media/images/web/mana_symbols/mana_r.png\">","[r]");
-    result = result.replace("<img style=\"margin:1px;\" src=\"/media/images/web/mana_symbols/tap.png\">","[t]");
-    result = result.replace("<img style=\"margin:1px;\" src=\"/media/images/web/mana_symbols/mana_r.png\">","[b]");
-    result = result.replace("<img style=\"margin:1px;\" src=\"/media/images/web/mana_symbols/mana_r.png\">","[g]");
-    result = result.replace("<img style=\"margin:1px;\" src=\"/media/images/web/mana_symbols/mana_r.png\">","[w]");
-    result = result.replace("<img style=\"margin:1px;\" src=\"/media/images/web/mana_symbols/mana_r.png\">","[R]");
-    result = result.replace("<img style=\"margin:1px;\" src=\"/media/images/web/mana_symbols/mana_r.png\">","[R]");
-    result = result.replace("\n","").replace("\r","");
+  result = result.split("<img style=\"margin:1px;\" src=\"/media/images/web/mana_symbols/mana_r.png\">").join("[r]");
+    result = result.split("<img style=\"margin:1px;\" src=\"/media/images/web/mana_symbols/tap.png\">").join("[t]");
+    result = result.split("<img style=\"margin:1px;\" src=\"/media/images/web/mana_symbols/mana_b.png\">").join("[b]");
+    result = result.split("<img style=\"margin:1px;\" src=\"/media/images/web/mana_symbols/mana_g.png\">").join("[g]");
+    result = result.split("<img style=\"margin:1px;\" src=\"/media/images/web/mana_symbols/mana_w.png\">").join("[w]");
+    result = result.split("<img style=\"margin:1px;\" src=\"/media/images/web/mana_symbols/mana_1.png\">").join("[1]");
+    result = result.split("<img style=\"margin:1px;\" src=\"/media/images/web/mana_symbols/mana_2.png\">").join("[2]");
+    result = result.split("<img style=\"margin:1px;\" src=\"/media/images/web/mana_symbols/mana_3.png\">").join("[3]");
+    result = result.split("<img style=\"margin:1px;\" src=\"/media/images/web/mana_symbols/mana_4.png\">").join("[4]");
+    result = result.split("<img style=\"margin:1px;\" src=\"/media/images/web/mana_symbols/mana_5.png\">").join("[5]");
+    result = result.replace(/\n/gi,"").replace(/\r/gi,"").replace(/;/gi,"").replace(/ +(?= )/g,'');
   return result;
 }
 
